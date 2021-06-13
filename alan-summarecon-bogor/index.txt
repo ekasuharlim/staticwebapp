@@ -1,0 +1,321 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-173993124-7"></script>
+	<script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
+
+	  gtag('config', 'UA-173993124-7');
+	</script>
+
+  <title>Summarecon Bogor</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Summarecon Bogor">
+  <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet" type="text/css">
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">  
+  
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>  
+</head>
+<style>
+.jumbotron {
+  background-color: #f4511e; /* Orange */
+  color: #ffffff;
+  padding: 100px 25px;
+}
+.container-sm{
+  padding: 10px 20px;
+}
+
+.font-gold {
+  color: #FFDF00;
+}
+
+.logo-small {
+  color: #f4511e;
+  font-size: 50px;
+}
+
+.logo {
+  color: #f4511e;
+  font-size: 200px;
+}
+
+
+.font-pi {
+  color: #006000;
+  font-size: 16px; 
+}
+
+.bg-black {
+  background-color: #000000;
+}
+
+
+.navbar {
+  margin-bottom: 0;
+  z-index: 9999;
+  border: 0;
+  font-size: 12px !important;
+  line-height: 1.42857143 !important;
+  letter-spacing: 4px;
+  border-radius: 0;
+}
+
+.navbar li a, .navbar .navbar-brand {
+  color: #000000 !important;
+}
+
+.navbar-nav li a:hover, .navbar-nav li.active a {
+  color: #f4511e !important;
+  background-color: #fff !important;
+}
+
+.navbar-default .navbar-toggle {
+  border-color: transparent;
+  color: #fff !important;
+}
+</style>
+
+<body>
+<nav class="navbar navbar-default fixed-top" style="background-color:#008000">
+  <div class="container">
+    <div class="navbar-header">
+      <a class="navbar-brand" href="https://api.whatsapp.com/send?phone=6281317007179">
+		<strong>Alan : 0813-1700-7179 </strong>
+	  </a>
+	  <a href="https://api.whatsapp.com/send?phone=6281317007179">
+	  <img src="static/wapp.png" width="10%" />	  
+	  </a>
+    </div>
+  </div>
+</nav>
+
+<BR><BR><BR>
+<div class="container-sm text-center font-pi">
+	<img src="static/logoup.png" width="20%">
+</div>
+
+<div class="container-sm text-center font-pi">
+	<img src="static/nc2.jpg" width="100%">
+</div>
+
+
+
+
+<div class="container-sm font-pi text-center">
+	<div class="row">
+		<div class="col-sm-12 ">
+			<h2><strong>TENTANG</strong> SUMMARECON BOGOR</h2>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-sm-12 text-center ">
+Summarecon Agung merupakan sebuah developer ternama yang sangat dipercaya oleh masyarakat Indonesia berkat reputasi pembangunan kota mandirinya, mulai dari Kelapa Gading, Gading Serpong, Summarecon Bekasi, Karawang, Bandung dan Makasar. 
+<br><br>
+Summarecon dikenal selalu mampu membuat sebuah kawasan sangat nyaman dihuni dengan fasilitas terbaik dan selalu sukses meramaikan kawasan yang dibangun. Hingga saat ini semua properti yang dilahirkan oleh Summarecon selalu menjadi incaran baik penghuni maupun investor. 
+<br><br>
+Kini Summarecon meluncurkan proyek teranyar mereka yang sudah ditunggu-tunggu oleh masyarakat, yaitu Summarecon Bogor		</div>
+	</div>
+</div>
+<br><br>
+<div class="container-sm font-pi text-center">
+	<div class="row">
+		<div class="col-sm-12 ">
+			<h2><strong>CLUSTER</strong> SUMMARECON BOGOR</h2>
+		</div>
+	</div>
+</div>
+
+<div class="container-sm font-pi text-center">
+	<div class="row">
+		<div class="col-sm-12 ">
+			<h2><strong>The Mahogany Residence</h2>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-sm-12 ">
+			<p>The Mahogany Residence merupakan cluster pertama dan didesain oleh Hadiprana yang sudah terkenal dalam mendesain resort, private house dan galeri, Mahogany Residence akan berkonsep tropis.
+				<br><br><strong>Harga jual mulai 1.3 milyaran.</strong><br>
+			</p>
+			
+		</div>	
+	</div>	
+	<div class="row">
+		<div class="col-sm-6 ">
+			<img src="static/mr1.jpg" width="100%">
+		</div>	
+		<div class="col-sm-6 ">
+			<img src="static/mr2.jpg" width="100%">
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-sm-12 "><br><br>
+			<p>Tipe Rumah The Mahogany Residence<br>
+- Tipe 7x16 (Basic & Premium)<br>
+- Tipe 9x16 (Basic & Premium)<br>
+		</div>	
+	</div>		
+</div>
+<br><br>
+<div class="container-sm font-pi text-center">
+	<div class="row">
+		<div class="col-sm-12 ">
+			<h2><strong>The Mahogany Island</h2>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-sm-12 ">
+			<p>Kawasan kavling di Summarecon Bogor dengan pilihan ukuran beragam dengan jumlah unit yang terbatas dan eksklusif.
+				<br><br><strong>Harga jual mulai 1.4 milyaran.</strong><br>
+			</p>
+			
+		</div>	
+	</div>	
+	<div class="row">
+		<div class="col-sm-6 ">
+			<img src="static/mi1.jpg" width="100%">
+		</div>	
+		<div class="col-sm-6 ">
+			<img src="static/mi2.jpg" width="100%">
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-sm-12 "><br><br>
+			<p>Tipe Kavling The Mahogany Island<br>
+- Tipe 10x20 (Flat & Upslope)<br>
+- Tipe 10x25 (Flat & Upslope)<br>
+		</div>	
+	</div>		
+</div>
+<br><br>
+<div class="container-sm font-pi text-center">
+	<div class="row">
+		<div class="col-sm-12 ">
+			<h2><strong>The Agathis Golf Residence</h2>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-sm-12 ">
+			<p>The Agathis Golf Residence berkonsep kolonial dengan kemewahan bangunan gaya eropa dan didesain oleh Studio Air Putih (Denny Gondo), terletak berdampingan dengan lapangan golf, dan terdapat 7 unit rumah dengan view langsung ke lapangan golf.
+				<br><br><strong>Harga jual mulai 2.9 milyaran.</strong><br>
+			</p>
+			
+		</div>	
+	</div>	
+	<div class="row">
+		<div class="col-sm-6 ">
+			<img src="static/ag1.jpg" width="100%">
+		</div>	
+		<div class="col-sm-6 ">
+			<img src="static/ag2.jpg" width="100%">
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-sm-12 "><br><br>
+			<p>Tipe The Agathis Golf Residence<br>
+- Tipe 10x18 (Basic & Premium)<br>
+- Tipe 12x18 (Basic & Premium)<br>
+		</div>	
+	</div>		
+</div>
+
+<div class="container-sm font-pi text-center">
+	<div class="row">
+		<div class="col-sm-12 ">
+			<h2><strong>LOKASI</strong> SUMMARECON BOGOR</h2>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-sm-6 ">
+			<img src="static/lokasi.png" width="100%">	
+		</div>
+		<div class="col-sm-6 ">
+			<img src="static/lokasi.jpg" width="100%">	
+		</div>
+	</div>
+</div>
+<br>
+<div class="container-sm font-pi text-center">
+	<div class="row">
+		<div class="col-sm-12 ">
+			<h2><strong>Mekanisme Pembelian</h2>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-sm-12 ">
+			<p>
+Sistem pembelian Summarecon Bogor menggunakan sistem pendaftaran NUP yang akan mulai dibuka pendaftaran secara resmi pada tanggal 23 September pukul 15.00 dan ditutup tanggal 15 Oktober 2020. 
+<br>
+<br>
+NUP Reguler: <br>
+Komitmen Fee 5-10 Juta bersifat refundable. <br>
+Sistem nomor antrian akan diundi. <br>
+
+<br>
+NUP Prioritas: <br>
+Booking Fee 10-30 Juta non refundable, terbatas hanya untuk : <br>
+- 30 NUP pertama Cluster The Mahogany Residence. <br>
+- 12 NUP pertama Cluster The Mahogany Island. <br>
+- 10 NUP pertama Cluster The Agathis Golf Residence. <br>
+
+<br>
+Lelang:<br>
+Khusus Cluster The Agathis Golf Residence dengan 7 unit view langsung ke golf akan dijual dengan mekanisme lelang. Syarat dan ketentuan segera diinformasikan. <br>
+
+<br>
+Persyaratan Data & Dokumen Pendaftaran NUP :<br>
+- Foto KTP, NPWP & KK. <br>
+- Data email, no hp, alamat surat menyurat. <br>
+- Data keperluan refund berupa nomor, nama, bank dan cabang rekening. <br>
+
+
+Syarat & Ketentuan Pendaftaran NUP : <br>
+<br>
+- Memilih 3 unit alternatif, apabila unit masih available saat mendapat kesempatan memilih, maka wajib ambil salah satu, jika tidak maka komitmen fee hangus. Namun apabila 3 unit alternatif sudah terjual habis maka bisa memilih unit lain yang masih tersedia atau bisa refund. <br>
+- Pendaftaran NUP Prioritas menggunakan sistem cepat-cepatan daftar dan apabila sudah mencapai kuotanya masing-masing, maka akan ditutup. <br>
+- NUP Reguler sistem penomoran antriannya akan diundi, misalkan total 300 NUP, untuk menentukan antrian 1 sampai 300 akan diundi secara terbuka. <br>
+
+
+<br>Informasi Launching
+
+Launching pemilihan unit akan diadakan pada hari Sabtu tanggal 17 Oktober 2020.			<br>
+			</p>
+			
+		</div>	
+	</div>	
+</div>
+
+
+
+
+<div class="container-sm font-pi text-center">
+	<div class="row">
+		<div class="col-sm-12 text-center ">
+			Informasi ini diterbitkan hanya untuk memberi gambaran secara umum. Kami berupaya menyediakan data seakurat dan selengkap mungkin dengan melakukan riset dari berbagai sumber. Bagi developer yang ingin menyediakan informasi terbaru seputar properti ini, bisa menghubungi kontak yang tercantum.
+		</div>
+	</div>
+</div>
+
+<nav class="navbar navbar-default" style="background-color:#008000">
+  <div class="container">
+    <div class="navbar-header">
+      <a class="navbar-brand" href="https://api.whatsapp.com/send?phone=6281317007179">
+		<strong>Alan : 0813-1700-7179 </strong>
+	  </a>
+	  <a href="https://api.whatsapp.com/send?phone=6281317007179">
+	  <img src="static/wapp.png" width="10%" />	  
+	  </a>
+    </div>
+  </div>
+</nav>
+
+
+</body>
+</html>
